@@ -27,7 +27,7 @@ class Shirt{
     push()
       translate(this.pos.x, this.pos.y, this.pos.z)
       scale(205.0)
-      translate(0.65, 1.9, 3)
+      translate(0.65, 1.6, 3)
       rotateX(180)
       rotateY(this.rotationVal + this.autoRotateValue)
       // rotateZ(this.theta/4)
