@@ -26,7 +26,7 @@ class Shirt{
     noStroke()
     push()
       translate(this.pos.x, this.pos.y, this.pos.z)
-      scale(205.0)
+      scale(195.0)
       translate(0.65, 1.75, 3)
       rotateX(180)
       rotateY(this.rotationVal + this.autoRotateValue)
