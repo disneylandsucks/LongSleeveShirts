@@ -78,7 +78,7 @@ function setup() {
   shirt = new Shirt(imgs[0], mod, -100, -100, 0, theta)
     wg = loadImage ('https://res.cloudinary.com/painkillerkid/image/upload/v1669760216/wordstuff2_iqvi3a.png');
   
-  fg = loadImage ('https://archive.org/download/spongedance-hd/spongedance-4.gif')
+  fg = loadImage ('https://res.cloudinary.com/painkillerkid/image/upload/v1687200861/5b0dae8dccc507001065963d48b9fc6e_w200_v8bq5s.gif')
   
   bg = loadImage ('https://media.tenor.com/2roX3uxz_68AAAAM/cat-space.gif')
  
