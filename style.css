@@ -6,7 +6,7 @@ canvas {
   display: block;
 }
 .topnav {
-  background-color: #0012FF;
+  background-color: #FF00ACF;
   overflow: hidden;
 }
 
@@ -14,7 +14,7 @@ canvas {
 .topnav a {
   float: left;
   display: block;
-  color: #f2f2f2;
+  color: #000000;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -23,33 +23,17 @@ canvas {
 
 /* Change the color of links on hover */
 .topnav a:hover {
-  background-color: #D0FF00;
-  color: rgb(0,0,0);
+  background-color: #282926;
+  color: rgb(254,158,255);
 }
 
 /* Add an active class to highlight the current page */
 .topnav a.active {
-  background-color: #04AA6D;
-  color: white;
+  background-color: #0426D;
+  color: rgb(255,112,251);
 }
 
 /* Hide the link that should open and close the topnav on small screens */
 .topnav .icon {
   display: none;
-}
-
-.rotate-button{
-  width: 8rem;
-  height: 4rem;
-  border-radius: 0.8rem;
-  background-color: #0012FF;
-  color: white;
-}
-
-.unrotate-button{
-  width: 8rem;
-  height: 4rem;
-  border-radius: 0.8rem;
-  background-color: #e100ff;
-  color: white;
 }
