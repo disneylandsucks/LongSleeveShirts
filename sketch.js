@@ -23,7 +23,7 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
     imgs[7] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687205350/LongSleeveShirt_Trial8_rbiiti.png')    
   imgs[8] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687205762/LongSleeveShirt_Trial9_tyrls9.png')
     imgs[9] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687217051/LongSleeveShirt_Trial10_muxgu5.png')
-//       imgs[10] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1665949784/toadpacshirt_3dthing_j0satg.png')
+      imgs[10] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687217717/LongSleeveShirt_Trial11_izvmuq.png')
 
 //         imgs[11] = loadImage(' https://res.cloudinary.com/painkillerkid/image/upload/v1665957356/housedrawing_3dShirt_nf3yob.png')
   
