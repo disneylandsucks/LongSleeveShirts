@@ -80,7 +80,7 @@ function setup() {
   
   fg = loadImage ('https://res.cloudinary.com/painkillerkid/image/upload/v1687200861/5b0dae8dccc507001065963d48b9fc6e_w200_v8bq5s.gif')
   
-  bg = loadImage ('https://media.tenor.com/2roX3uxz_68AAAAM/cat-space.gif')
+  bg = loadImage ('https://res.cloudinary.com/painkillerkid/image/upload/v1687201701/b7a_xwyv7e.gif')
  
     money = loadImage ('https://res.cloudinary.com/painkillerkid/image/upload/v1669858524/sendmemoney_schfml.png')
   
@@ -94,7 +94,7 @@ function draw() {
   noStroke();
 translate(30, 20, -3000);
   texture(bg);
-  plane(20000, 20000);
+  plane(20000, 5000);
   pop();  
   
 //   push();
