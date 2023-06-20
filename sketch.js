@@ -10,8 +10,8 @@ let rotating = false
 let clicked = false
 
 function preload(){
-    // audio = createAudio("Katy Perry - Firework (Acoustic Session) REMASTERED.mp3");
-    audio = createAudio("50 Cent - In Da Club (Lyrics) [TubeRipper.com].mp3");
+    audio = createAudio("Big Time Rush - Boyfriend.mp3");
+    // audio = createAudio("50 Cent - In Da Club (Lyrics) [TubeRipper.com].mp3");
 
 imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687153640/LongSleeveShirt_Trial1_u2hlx2.png')
  imgs[1] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687167050/LongSleeveShirt_Trial2_tkob7b.png') 
