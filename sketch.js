@@ -38,16 +38,16 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
   
 //   imgs[16] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1685669730/MiddleFinger_Finished_Shirt_mdd5jo_toypuq.png')
     
-//              imgs[21] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686163816/ILoveSac_Shirt_derc72.png')
+             imgs[21] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687293829/LongSleeveShirt_Trial21_rkloyy.png')
 
   
   
     
 
 
-//                  imgs[22] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686186940/BanShirt_ft4ixj.png')
+                 imgs[22] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687294655/LongSleeveShirt_Trial22_gca21a.png')
     
-//     imgs[23] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686353528/EmojiShirt_dznqmc.png')
+    imgs[23] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687294655/LongSleeveShirt_Trial23_wivqbq.png')
     
 //         imgs[24] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686355315/NOTEBOOKSHIRTTEXT-Recovered_bpqzi3.png')
 
