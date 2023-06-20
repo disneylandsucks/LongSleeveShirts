@@ -33,6 +33,7 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
       imgs[17] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687230577/LongSleeveShirt_Trial17_wajzhw.png')
          imgs[18] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687231558/LongSleeveShirt_Trial18_vmdk2m.png')
       imgs[19] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687232643/LongSleeveShirt_Trial19_nxxxzu.png')
+  imgs[20] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687233033/LongSleeveShirt_Trial20_focrhc.png')
 
   
 //   imgs[16] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1685669730/MiddleFinger_Finished_Shirt_mdd5jo_toypuq.png')
@@ -41,7 +42,6 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
 
   
   
-//   imgs[20] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1686164179/therealedshirt_nrnrtg.png')
     
 
 
