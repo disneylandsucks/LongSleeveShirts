@@ -47,9 +47,8 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
             imgs[26] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687302877/LongSleeveShirt_Trial26_utqzsk.png')
 
             imgs[27] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687302877/LongSleeveShirt_Trial27_ybt1j9.png')
-
-              
-    // imgs[28] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687302877/LongSleeveShirt_Trial27_ybt1j9.png')
+    
+    imgs[28] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687304128/LongSleeveShirt_Trial28_zr7t4a.png')
 
       // imgs[29] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687302877/LongSleeveShirt_Trial27_ybt1j9.png')
     
