@@ -65,7 +65,7 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
                 imgs[35] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687309417/LongSleeveShirt_Trial35_vtlbka.png')
 
 
-                // imgs[36] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687307077/LongSleeveShirt_Trial33_psiumz.png')
+                imgs[36] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687310127/LongSleeveShirt_Trial36_xtp80s.png')
 
 
                 // imgs[37] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687307077/LongSleeveShirt_Trial33_psiumz.png')
