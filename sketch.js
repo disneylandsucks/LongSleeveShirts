@@ -71,7 +71,7 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
                 imgs[37] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687310653/LongSleeveShirt_Trial37_diub2f.png')
 
 
-                // imgs[38] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687307077/LongSleeveShirt_Trial33_psiumz.png')
+                imgs[38] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687311136/LongSleeveShirt_Trial38_jakvlj.png')
 
 
   mod = loadModel('THEREALLONGSLEEVESHIRT.obj')
