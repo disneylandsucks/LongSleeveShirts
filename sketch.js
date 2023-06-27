@@ -159,6 +159,9 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
     
                             imgs[80] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687902762/LongSleeveShirt_Trial80_mmzzmy.png')
 
+                                imgs[81] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687903353/LongSleeveShirt_Trial81_zip0e3.png)
+
+
   mod = loadModel('THEREALLONGSLEEVESHIRT.obj')
 }
 
