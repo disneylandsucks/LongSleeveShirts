@@ -129,6 +129,13 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
 
                         imgs[65] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687826220/LongSleeveShirt_Trial64_rmr3sj.png')
 
+                        imgs[66] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687892781/LongSleeveShirt_Trial68_ussipz.png')
+    
+                        imgs[67] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687892781/LongSleeveShirt_Trial66_a1ry20.png')
+    
+                        imgs[68] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687892781/LongSleeveShirt_Trial69_clpwzb.png')
+    
+                        imgs[69] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1687892781/LongSleeveShirt_Trial67_r5qh6t.png')
 
   mod = loadModel('THEREALLONGSLEEVESHIRT.obj')
 }
