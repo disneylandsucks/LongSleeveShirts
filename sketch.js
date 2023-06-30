@@ -256,8 +256,21 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
     
     imgs[118] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688090697/LongSleeveShirt_Trial118_hlulph.png')
     
-    // imgs[119] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
-    // imgs[120] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
+    imgs[119] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688091395/LongSleeveShirt_Trial119_ggerqk.png')
+    
+    // imgs[121] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
+    // imgs[122] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
+    // imgs[123] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
+    // imgs[124] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
+    // imgs[125] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
+    // imgs[126] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
+    // imgs[127] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
+    // imgs[128] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
+    // imgs[129] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
+    // imgs[130] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
+    // imgs[131] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
+    // imgs[132] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
+    // imgs[133] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
 
   mod = loadModel('THEREALLONGSLEEVESHIRT.obj')
 }
