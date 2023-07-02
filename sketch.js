@@ -284,9 +284,9 @@ imgs[0]= loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v16871
     
     imgs[132] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688255196/LongSleeveShirt_Trial132_yj5jsk.png')
     
-    // imgs[133] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
-    // imgs[134] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
-    // imgs[135] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
+    imgs[133] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688258837/LongSleeveShirt_Trial134_os0gfs.png')
+    imgs[134] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688258837/LongSleeveShirt_Trial135_skh3gw.png')
+    imgs[135] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688258837/LongSleeveShirt_Trial133_ngymwo.png')
     // imgs[136] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
     // imgs[137] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
     // imgs[138] = loadImage('https://res.cloudinary.com/painkillerkid/image/upload/v1688078160/LongSleeveShirt_Trial105_dkdggl.png')
