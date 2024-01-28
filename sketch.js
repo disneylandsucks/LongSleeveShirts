@@ -450,6 +450,7 @@ function changeBG() {
 }
 function mousePressed(){
 
+    
    shirt.drag(mouseX, mouseY)
    clicked = true
 
